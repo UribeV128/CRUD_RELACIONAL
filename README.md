@@ -1,12 +1,16 @@
-# cmdcars-CRUD_RELACIONAL
-CRUD_RELACIONAL empresa cmdcars tablas vehiculo, sucursal y estado
-![](https://github.com/CorreaMontesDiego/cmdcars-CRUD_RELACIONAL/blob/main/capturas/captura1.jpg)
-![](https://github.com/CorreaMontesDiego/cmdcars-CRUD_RELACIONAL/blob/main/capturas/captura2.jpg)
-![](https://github.com/CorreaMontesDiego/cmdcars-CRUD_RELACIONAL/blob/main/capturas/captura3.jpg)
-![](https://github.com/CorreaMontesDiego/cmdcars-CRUD_RELACIONAL/blob/main/capturas/captura4.jpg)
-![](https://github.com/CorreaMontesDiego/cmdcars-CRUD_RELACIONAL/blob/main/capturas/captura5.jpg)
-![](https://github.com/CorreaMontesDiego/cmdcars-CRUD_RELACIONAL/blob/main/capturas/captura6.jpg)
-![](https://github.com/CorreaMontesDiego/cmdcars-CRUD_RELACIONAL/blob/main/capturas/captura7.jpg)
-![](https://github.com/CorreaMontesDiego/cmdcars-CRUD_RELACIONAL/blob/main/capturas/captura8.jpg)
-![](https://github.com/CorreaMontesDiego/cmdcars-CRUD_RELACIONAL/blob/main/capturas/captura9.jpg)
-![](https://github.com/CorreaMontesDiego/cmdcars-CRUD_RELACIONAL/blob/main/capturas/captura10.jpg)
+# Neutrogena-CRUD_RELACIONAL
+CRUD_RELACIONAL empresa neutrogena tablas productos, sucursal y categoria
+![](https://github.com/UribeV128/Neutrogena-CRUD_RELACIONAL/blob/main/capturas/c1.png)
+![](https://github.com/UribeV128/Neutrogena-CRUD_RELACIONAL/blob/main/capturas/c2.png)
+![](https://github.com/UribeV128/Neutrogena-CRUD_RELACIONAL/blob/main/capturas/c3.png)
+![](https://github.com/UribeV128/Neutrogena-CRUD_RELACIONAL/blob/main/capturas/c4.png)
+![](https://github.com/UribeV128/Neutrogena-CRUD_RELACIONAL/blob/main/capturas/c5.png)
+![](https://github.com/UribeV128/Neutrogena-CRUD_RELACIONAL/blob/main/capturas/c6.png)
+![](https://github.com/UribeV128/Neutrogena-CRUD_RELACIONAL/blob/main/capturas/c7.png)
+![](https://github.com/UribeV128/Neutrogena-CRUD_RELACIONAL/blob/main/capturas/c8.png)
+![](https://github.com/UribeV128/Neutrogena-CRUD_RELACIONAL/blob/main/capturas/c9.png)
+![](https://github.com/UribeV128/Neutrogena-CRUD_RELACIONAL/blob/main/capturas/c10.png)
+![](https://github.com/UribeV128/Neutrogena-CRUD_RELACIONAL/blob/main/capturas/c11.png)
+![](https://github.com/UribeV128/Neutrogena-CRUD_RELACIONAL/blob/main/capturas/c12.png)
+![](https://github.com/UribeV128/Neutrogena-CRUD_RELACIONAL/blob/main/capturas/c13.png)
+![](https://github.com/UribeV128/Neutrogena-CRUD_RELACIONAL/blob/main/capturas/c14.png)
