@@ -1,6 +1,6 @@
 <?php
 // Definir la constante base_url para construir enlaces
-const base_url = "http://localhost/CRUD_RELACIONAL/";
+const base_url = "http://localhost/CRUD_RELACIONAL-main/";
 
 // Configuración de la base de datos
 $servername = "localhost";  // Nombre del servidor de la base de datos
