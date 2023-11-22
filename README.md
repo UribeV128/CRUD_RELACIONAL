@@ -14,3 +14,5 @@ CRUD_RELACIONAL empresa neutrogena tablas productos, sucursal y categoria
 ![](https://github.com/UribeV128/Neutrogena-CRUD_RELACIONAL/blob/main/capturas/c12.png)
 ![](https://github.com/UribeV128/Neutrogena-CRUD_RELACIONAL/blob/main/capturas/c13.png)
 ![](https://github.com/UribeV128/Neutrogena-CRUD_RELACIONAL/blob/main/capturas/c14.png)
+![](https://github.com/UribeV128/Neutrogena-CRUD_RELACIONAL/blob/main/capturas/c15.png)
+![](https://github.com/UribeV128/Neutrogena-CRUD_RELACIONAL/blob/main/capturas/c16.png)
